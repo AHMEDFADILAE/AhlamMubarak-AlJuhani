@@ -1,2 +1,5 @@
-# AhlamMubarak-AlJuhani
-Ahlam Mubarak Al-Juhani
+for i in {1..11}; do
+  git add file_2
+  git commit -m "الالتزام_الجديد_الخاص_$i"
+  git push origin new_feature
+done
