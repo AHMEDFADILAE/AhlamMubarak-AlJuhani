@@ -1,2 +1,6 @@
 # AhlamMubarak-AlJuhani
 Ahlam Mubarak Al-Juhani
+git add file_2
+git commit -m "comeback to master"
+git push origin master
+git log -n 1
